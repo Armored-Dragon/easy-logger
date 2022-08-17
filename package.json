@@ -1,0 +1,19 @@
+{
+  "name": "easy-logger",
+  "version": "1.0.0",
+  "description": "Colored terminal outputs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/ArmoredDragon/easy-logger.git"
+  },
+  "author": "Armored Dragon",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://gitlab.com/ArmoredDragon/easy-logger/issues"
+  },
+  "homepage": "https://gitlab.com/ArmoredDragon/easy-logger#readme"
+}
